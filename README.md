@@ -2,6 +2,10 @@
 - 🔭 I’m currently working on building out my Data Science Portfolio!
 - 👀 I’m interested in anything related to sports
 - 📫 Connect with me https://www.linkedin.com/in/chandramoulis21/
+   [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/chandramoulis21/"
 
 <!---
 Chandru-21/Chandru-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
